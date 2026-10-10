@@ -1,0 +1,37 @@
+# InfraLab
+
+Infrastructure management platform.
+
+## Purpose
+
+InfraLab is a portafolio project designed to demonstrate system administration, backend development, containerization, monitoring, Kubernetes and CI/CD skills.
+
+## Currente version
+
+0.1.0
+
+## Technologies
+
+- Python
+- FastAPI
+- Git
+- GitHub
+
+## Current features
+
+- Health check
+- API information
+- Server endpoint
+
+## Roadmap
+
+- [] REST API
+- [] PostgreSQL
+- [] Docker
+- [] Nginx
+- [] Monitoring
+- [] Backups
+- [] Kubernetes
+- [] CI/CD
+- [] Observability
+- [] Security hardening
