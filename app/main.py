@@ -25,7 +25,7 @@ lista_servers = []
 @app.get("/servers/count")
 def get_servers_count():
     return {
-         "count": 0
+         "count": len(lista_servers)
     }
 
 @app.get("/servers")
